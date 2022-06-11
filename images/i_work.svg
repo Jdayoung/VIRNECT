@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <path d="M0 0H24V24H0z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6)"/>
+                        <g>
+                            <path fill="#6FB6FB" d="M0 12.858L7.423 17.143 7.423 13.578 3.087 11.075 3.087 6.068 0 4.286z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#BFDCFF" d="M0 4.286L3.087 6.068 7.423 3.564 7.423 0z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#DEEDFF" d="M7.423 3.564L11.759 6.068 14.846 4.286 7.423 0z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#007CF7" d="M11.759 6.068L11.759 11.075 7.423 13.578 7.423 17.143 14.846 12.858 14.846 4.286z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#DEEDFF" d="M11.759 11.075L11.759 6.068 7.423 8.572z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#007CF7" d="M11.759 6.068L7.423 3.564 7.423 3.565 7.423 3.564 3.087 6.068 7.423 8.572 7.423 8.571 7.423 8.572z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#FFF" d="M11.759 11.075L7.423 8.572 3.087 11.075 7.423 13.578z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                            <path fill="#BFDCFF" d="M3.087 6.068L3.087 6.068 3.087 11.075 7.423 8.572z" transform="translate(-1709 -223) translate(1701 149) translate(0 68) translate(8 6) translate(4 3)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
